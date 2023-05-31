@@ -1,0 +1,19 @@
+{
+  "name": "supamenu-backend",
+  "version": "1.0.0",
+  "description": "Auth and other SupaMenu's APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Graziee6/SupaMenu-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Graziee6/SupaMenu-backend/issues"
+  },
+  "homepage": "https://github.com/Graziee6/SupaMenu-backend#readme"
+}
